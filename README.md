@@ -11,11 +11,11 @@ This repository contains the course project files for the Coursera course "Getti
 <li>run_analysis.R: The R script used to transform raw data set into tidy data.</li>
 </ul>
 
-##Raw data
+##Data
 The data comes from the Human Activity Recognition Using Smartphones Data Set:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-#Data source
+##Data source
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ##Project Task

@@ -1,27 +1,32 @@
-Course Project Documentation
+Getting and Cleaning Data Project
 =================================
 
-### Getting and Cleaning Data Project
 ## Introduction
-This repository contains the course project for the Coursera course "Getting and Cleaning data." This README.md describes the raw data, the script, the tidy data output, and the codebook. 
+This repository contains the course project files for the Coursera course "Getting and Cleaning data." This README.md describes the raw data, the script, the tidy data output, and the codebook.
+
+## Files in this repository
+<ul>
+<li>README.md: This file</li>
+<li>codeBook.md: Information about both the raw and tidy data set.</li>
+<li>run_analysis.R: The R script used to transform raw data set into tidy data.</li>
+</ul>
 
 ##Raw data
+The data comes from the Human Activity Recognition Using Smartphones Data Set:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+#Data source
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
+##Project Task
 Make and R script called run_analysis.R 
 <ol>
 <li>Merge the 'training' and the 'test' sets to create one data set.</li>
-<li>Extract only the measurements on the mean and standard deviation for each measurement.</li>
+<li>Extract the measurements on the mean and standard deviation for each measurement.</li>
 <li>Use descriptive activity names to name the activities in the data set</li>
 <li>Appropriately label the data set with descriptive activity names.</li>
 <li>Make a new independent tidy data set with the average of each variable for each activity and each subject.</li>
 </ol>
-
-## Files in this repository
-<ul>
-<li>README.md: this file</li>
-<li>codeBook.md: information about both the raw and tidy data set.</li>
-<li>run_analysis.R: The R script used to transform raw data set into tidy data.</li>
-</ul>
 
 ## Steps to use this data
 <ol>

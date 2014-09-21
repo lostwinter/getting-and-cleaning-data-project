@@ -24,7 +24,8 @@ Make and R script called run_analysis.R
 
 ## Steps to use this data
 <ol>
-<li>Download the data file and put into a local folder.</li>
-<li>Put run_analysis.R in the parent folder of the Huamn Activity Recognition Dataset.</li>
+<li>Download the data zip file and put into a local folder.</li>
+<li>Put run_analysis.R into the parent folder of the Human Activity Recognition Dataset.</li>
 <li>Set it as your working directory using setwd() function in RStudio.</li>
+<li>Run</li>
 </ol>

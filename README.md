@@ -25,6 +25,6 @@ Make and R script called run_analysis.R
 ## Steps to use this data
 <ol>
 <li>Download the data file and put into a local folder.</li>
-<li>Put run_analysis.R in the parent folder of UCI HAR Dataset.</li>
+<li>Put run_analysis.R in the parent folder of the Huamn Activity Recognition Dataset.</li>
 <li>Set it as your working directory using setwd() function in RStudio.</li>
 </ol>
